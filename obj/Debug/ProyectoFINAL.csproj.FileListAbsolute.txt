@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\ProyectoFINAL\ProyectoFINAL\bin\Debug\ProyectoFINAL.exe.config
+C:\Users\Usuario\source\repos\ProyectoFINAL\ProyectoFINAL\bin\Debug\ProyectoFINAL.exe
+C:\Users\Usuario\source\repos\ProyectoFINAL\ProyectoFINAL\bin\Debug\ProyectoFINAL.pdb
+C:\Users\Usuario\source\repos\ProyectoFINAL\ProyectoFINAL\obj\Debug\ProyectoFINAL.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\ProyectoFINAL\ProyectoFINAL\obj\Debug\ProyectoFINAL.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\ProyectoFINAL\ProyectoFINAL\obj\Debug\ProyectoFINAL.Form1.resources
+C:\Users\Usuario\source\repos\ProyectoFINAL\ProyectoFINAL\obj\Debug\ProyectoFINAL.Properties.Resources.resources
+C:\Users\Usuario\source\repos\ProyectoFINAL\ProyectoFINAL\obj\Debug\ProyectoFINAL.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\ProyectoFINAL\ProyectoFINAL\obj\Debug\ProyectoFINAL.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ProyectoFINAL\ProyectoFINAL\obj\Debug\ProyectoFINAL.exe
+C:\Users\Usuario\source\repos\ProyectoFINAL\ProyectoFINAL\obj\Debug\ProyectoFINAL.pdb
+C:\Users\Usuario\source\repos\ProyectoFINAL\ProyectoFINAL\obj\Debug\ProyectoFINAL.CrearFactura.resources
